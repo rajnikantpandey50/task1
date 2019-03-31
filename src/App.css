@@ -31,3 +31,22 @@
     transform: rotate(360deg);
   }
 }
+
+.form {
+  margin: 10% 37% 0% 20%;
+}
+.task {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  padding-bottom: 25px;
+}
+
+.display {
+  border: 1px solid black;
+  padding-bottom: 100%;
+  height: 600px;
+  overflow: hidden;
+  overflow-y: scroll;
+}
